@@ -33,7 +33,7 @@ This tool takes care of a lot of gnarly stuff. Here is a list of the most notabl
 ## Basic usage
 Clone repository into you working directory.
 ```console
-git clone https://gits-15.sys.kth.se/hardware-security-group/ECC_CCT_tool.git
+git clone https://github.com/lbacklund/ECC_CCT_tool.git
 ```
 
 Import module.
